@@ -1,0 +1,37 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header{
+    position: relative;
+
+}
+.sacola{
+    background-image: url(../img/sacola.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    font-size: 14px;
+    padding-right: 35px;
+    text-align: right;
+    width: 140px;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+
+}
+.menu-opcoes{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.menu-opcoes ul{
+    font-size: 15px;
+}
+.menu-opcoes a{
+    color: #003366;
+}

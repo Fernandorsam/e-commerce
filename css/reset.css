@@ -1,0 +1,12 @@
+.menu-opcoes ul li{
+display: inline;
+margin-left: 20px;
+}
+.sacola {
+    padding-top: 8px;
+}
+.container{
+    width: 940px ;
+    margin:0 auto ;
+
+}
